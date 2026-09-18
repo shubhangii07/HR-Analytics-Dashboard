@@ -352,8 +352,5 @@ Detailed documentation for the Power Query data cleaning and transformation proc
 
 **Data Analyst | Power BI | SQL | Excel | Data Analytics**
 
----
 
-## ⭐ Project
 
-If you find this project useful, feel free to explore the dashboard, dataset, and documentation.

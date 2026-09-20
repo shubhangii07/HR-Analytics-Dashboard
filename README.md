@@ -22,7 +22,7 @@ It covers:
 - Education field analysis
 - Job role and satisfaction analysis
 
-![HR Analytics Dashboard](Screenshots/Overview.png)
+![HR Analytics Dashboard](Screenshots/01_Overview.png)
 
 ---
 
@@ -39,7 +39,7 @@ It covers:
 - Attrition by current role tenure
 - Attrition by job involvement
 
-![Employee Attrition Deep Dive](Screenshots/Attrition_Deep_Dive.png)
+![Employee Attrition Deep Dive](Screenshots/02_Attrition_Deep_Dive.png)
 
 ---
 
